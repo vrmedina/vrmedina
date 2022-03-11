@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Web oriented projects or so
 - 📫 How to reach me 
   - email: vrmm1998@gmail.com
-  - instagram: medinavictor98
   - twitter: VictorMedina007
 
 <!---
