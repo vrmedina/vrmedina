@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @vrmedina, A systems engineering student
 - 👀 I’m interested in Web Programming, Mobile Programming, Artificial Intelligence and Neural Networks
-- 🌱 I’m currently learning React, Java and Flutter with Dart
-- 💞️ I’m looking to collaborate on Web oriented projects or so
+- 🌱 I’m currently learning React, Java and Flutter
+- 💞️ I’m looking to collaborate on Web oriented projects, Java projects and Mobile projects
 - 📫 How to reach me 
   - email: vrmm1998@gmail.com
-  - twitter: VictorMedina007
+  - twitter: vrmedina98
 
 <!---
 vrmedina/vrmedina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
