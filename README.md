@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vrmedina, A systems engineering student
-- 👀 I’m interested in Web Programming, Mobile Programming, Artificial Intelligence and Neural Networks
-- 🌱 I’m currently learning .NET, React, React Native, Node.js, Java and Flutter
-- 💞️ I’m looking to collaborate on Web oriented projects, Java projects and Mobile projects
+- 👀 I’m interested in Web Programming, Mobile Programming and Artificial Intelligence
+- 🌱 I’m currently learning .NET, React, Node.js and Azure
+- 💞️ I’m looking to collaborate on Web, Cloud and Mobile oriented projects
 - 📫 How to reach me 
   - email: vrmm1998@gmail.com
   - twitter: vrmedina98
