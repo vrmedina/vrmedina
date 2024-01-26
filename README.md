@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vrmedina, A systems engineering student
+- 👋 Hi, I’m @vrmedina, a Software Engineer from Colombia
 - 👀 I’m interested in Web Programming, Mobile Programming and Artificial Intelligence
-- 🌱 I’m currently learning .NET, React, Node.js and Azure
+- 🌱 I’m currently working with .NET, React, Node.js and Azure
 - 💞️ I’m looking to collaborate on Web, Cloud and Mobile oriented projects
 - 📫 How to reach me 
   - email: vrmm1998@gmail.com
